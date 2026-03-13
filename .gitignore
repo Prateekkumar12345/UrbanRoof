@@ -1,0 +1,34 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.log
+
+# Virtual environments
+.env
+venv/
+__pycache__/
+output/
+
+# Streamlit
+.streamlit/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output and generated reports
+output/
+*.pdf
+*.txt
+
+# Cursor / editor metadata (optional, ignore if you want clean repo)
+.cursor/
