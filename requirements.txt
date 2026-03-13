@@ -1,0 +1,8 @@
+openai
+langchain
+pymupdf
+pydantic
+sentence-transformers
+numpy
+tqdm
+streamlit
